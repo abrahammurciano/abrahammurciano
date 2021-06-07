@@ -73,7 +73,7 @@ Passionate software engineer, full stack web developer, and IT technician offeri
 
 -   Object Oriented Programming - _Expert_
 -   Linux - _Good_
--   Treads - _Intermediate_
+-   Threads - _Intermediate_
 -   Agile - _Very good_
 -   Graphic Design - _Very good_
 
