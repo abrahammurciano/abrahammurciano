@@ -10,11 +10,12 @@
 
 ## Personal Information
 
--   Jerusalem, Israel
--   abrahammurciano@gmail.com
--   +44 7397 842 936
--   +972 54 286 1293
--   [GitHub](https://github.com/abrahammurciano) | [LinkedIn](https://linkedin.com/in/abraham-murciano-402952143)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1e88e5&logoColor=white)](https://linkedin.com/in/abraham-murciano-402952143)
+[![GitHub](https://img.shields.io/badge/-GitHub-424242?style=for-the-badge&logo=github&labelColor=1b1b1b&logoColor=white)](https://github.com/abrahammurciano)
+[![abrahammurciano@gmail.com](https://img.shields.io/badge/-abrahammurciano@gmail.com-c62828?style=for-the-badge&logo=gmail&labelColor=8e0000&logoColor=white)](mailto:abrahammurciano@gmail.com)
+![Jerusalem, Israel](https://img.shields.io/badge/Jerusalem-Israel-64dd17?style=for-the-badge&logo=google-maps&labelColor=1faa00&logoColor=white)
+![+44 7397 842 936](https://img.shields.io/badge/-+44_7397_842_936-2196f3?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgEAQAAACJ4248AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAAAGAAAABgAPBrQs8AAAAHdElNRQflBggNMy7gzAZyAAAB8ElEQVRYw8WWQSt8YRTGz/ufNFdjbNgwS6Nb1pSkmVj4ABTlC1iLhG+hLFDyIQyzsfIBxBQlTQkbVqapuTben8WNUe69c/y773jWz/s+v/uee05HoFCAkxMIAiIVBNjTUygUxIXCyzWqVt0A0GrpAN7eIJNJO/+fYK3Oms0KAwPpA5hmU+02g4PpA0ijobcPDTkAqNf19qmp9AG4vVW7KZXSBzDX12q3mZwEY1J+gfNzvT2TEUkXQERE4PFRNwt2dlIPFxHBHhx0zLYXF+B5jgBKpeT0ZhN830l4WAJjsPV6PMDysrPwNsTaWnR4reY8PATI5eDlJRpifr5LEFtb0QAPD9i+vi4AeB7c3UV3weFhd17Bzs3Ft+L6epcg4ubC+zssLbkHoLcXrq7iITY2ks/u7oY75usrVKuwvQ3lMvg+2qUGOzoa3xUAR0fYfP7nmcvLjlOVVgsqFRge7gAxMRFOwTg9PcHCQvjli4vQaHQO/65KRVGO2dlkCIBa7XfBnwoCZTnGx+H5+f9CkqX/MW2xqKuvI4CwHJ4H+/t/BtAGmZmBm5s/AwhLks3C5mZyqzoEaL9GLgerq8n7RJyUXaADMQY7PQ17e3B/rwM4Pk5/w/0CGhkRKZeFsTExvi8Ui2L6+0XyeZGeHpGzM5GVlQ+j3CR8u7YD9gAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNi0wOFQxMzo1MTo0NiswMDowMKyx52oAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDYtMDhUMTM6NTE6NDYrMDA6MDDd7F/WAAAAAElFTkSuQmCC&labelColor=0069c0&logoColor=white)
+![+972 54 286 1293](https://img.shields.io/badge/-+972_54_286_1293-2196f3?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgEAQAAACJ4248AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAAAGAAAABgAPBrQs8AAAAHdElNRQflBggNMy7gzAZyAAAB8ElEQVRYw8WWQSt8YRTGz/ufNFdjbNgwS6Nb1pSkmVj4ABTlC1iLhG+hLFDyIQyzsfIBxBQlTQkbVqapuTben8WNUe69c/y773jWz/s+v/uee05HoFCAkxMIAiIVBNjTUygUxIXCyzWqVt0A0GrpAN7eIJNJO/+fYK3Oms0KAwPpA5hmU+02g4PpA0ijobcPDTkAqNf19qmp9AG4vVW7KZXSBzDX12q3mZwEY1J+gfNzvT2TEUkXQERE4PFRNwt2dlIPFxHBHhx0zLYXF+B5jgBKpeT0ZhN830l4WAJjsPV6PMDysrPwNsTaWnR4reY8PATI5eDlJRpifr5LEFtb0QAPD9i+vi4AeB7c3UV3weFhd17Bzs3Ft+L6epcg4ubC+zssLbkHoLcXrq7iITY2ks/u7oY75usrVKuwvQ3lMvg+2qUGOzoa3xUAR0fYfP7nmcvLjlOVVgsqFRge7gAxMRFOwTg9PcHCQvjli4vQaHQO/65KRVGO2dlkCIBa7XfBnwoCZTnGx+H5+f9CkqX/MW2xqKuvI4CwHJ4H+/t/BtAGmZmBm5s/AwhLks3C5mZyqzoEaL9GLgerq8n7RJyUXaADMQY7PQ17e3B/rwM4Pk5/w/0CGhkRKZeFsTExvi8Ui2L6+0XyeZGeHpGzM5GVlQ+j3CR8u7YD9gAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wNi0wOFQxMzo1MTo0NiswMDowMKyx52oAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDYtMDhUMTM6NTE6NDYrMDA6MDDd7F/WAAAAAElFTkSuQmCC&labelColor=0069c0&logoColor=white)
 
 ## Summary
 
