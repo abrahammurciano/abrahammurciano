@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://s.gravatar.com/avatar/af14b56ce08d643882996d1ab2443550">
+
 # Abraham Murciano
 
 #### _Software Engineer_
