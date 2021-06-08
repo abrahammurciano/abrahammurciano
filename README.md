@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.jpg" style="width:200px;border-radius:50%">
+<img src="profile-round.jpg" width="200px">
 
 # Abraham Murciano
 
