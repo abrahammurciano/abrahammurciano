@@ -79,9 +79,7 @@ Passionate software engineer, full stack web developer, and IT technician offeri
 -   Created site layout and user interface using **HTML and CSS** practices.
 -   Hands-on experience using **Linux** and Apache web servers.
 
-### Computer Technician
-
-#### _PC Clinic, Gibraltar, Summer 2018_
+### Computer Technician ![PC Clinic, Gibraltar, _Summer 2018_](https://img.shields.io/badge/PC_Clinic,_Gibraltar-Summer_2018-757de8?style=flat&labelColor=002984)
 
 -   Built customised desktop computers.
 -   Used Removed and replaced malfunctioning components to correct hardware problems.
@@ -93,6 +91,7 @@ Passionate software engineer, full stack web developer, and IT technician offeri
 #### _Freelance, 2018 - Present_
 
 -   Taught less capable classmates and students from younger years material from various courses.
+-   Demonstrated good communication skills in getting complex concepts and ideas across.
 
 ## Education
 
