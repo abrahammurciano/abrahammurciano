@@ -59,12 +59,12 @@ Passionate software engineer, full stack web developer, and IT technician offeri
 
 ### Other
 
-![Object Oriented Programming - _Expert_]() 
-![Linux - _Good_]() 
-![Arch Linux - _Very Good_]() 
-![Threads - _Intermediate_]() 
-![Agile - _Very good_]() 
-![Graphic Design - _Very good_]()
+![Object Oriented Programming - _Expert_](https://img.shields.io/badge/Object_Oriented-Expert-98ee99?style=for-the-badge&labelColor=66bb6a) 
+![Linux - _Good_](https://img.shields.io/badge/Linux-Good-F7C700?style=for-the-badge&logo=linux&labelColor=eeeeee&logoColor=black) 
+![Arch Linux - _Very Good_](https://img.shields.io/badge/Arch_Linux-Very_good-0F94D2?style=for-the-badge&logo=arch-linux&labelColor=#333333&logoColor=0F94D2) 
+![Threading - _Intermediate_](https://img.shields.io/badge/Threading-Intermediate-ee98fb?style=for-the-badge&labelColor=883997) 
+![Agile - _Very good_](https://img.shields.io/badge/Agile-Very_good-ff94c2?style=for-the-badge&labelColor=ba2d65) 
+![Graphic Design - _Very good_](https://img.shields.io/badge/Graphic_Design-Very_good-757de8?style=for-the-badge&labelColor=002984)
 
 </div>
 
