@@ -125,7 +125,7 @@ Passionate software engineer, full stack web developer, and IT technician offeri
 
 ### [S Interpreter](https://github.com/abrahammurciano/s-interpreter)
 
-#### An interpreter for the educational Turing-machine-like language S
+#### An interpreter written in Python for the educational Turing-machine-like language S
 
 ## Languages
 
