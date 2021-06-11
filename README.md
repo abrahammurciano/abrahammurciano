@@ -98,3 +98,7 @@ Passionate software engineer, full stack web developer, and IT technician offeri
 ## Notable Open Source Projects
 
 ## Languages
+
+-   🇬🇧 English, _Fluent_
+-   🇪🇸 Spanish, _Fluent_
+-   🇮🇱 Hebrew, _Basic_
