@@ -64,6 +64,7 @@ Passionate software engineer, full stack web developer, and IT technician offeri
 ![Arch Linux - _Very Good_](https://img.shields.io/badge/Arch_Linux-Very_good-0F94D2?style=for-the-badge&logo=arch-linux&labelColor=#333333&logoColor=0F94D2) 
 ![Threading - _Intermediate_](https://img.shields.io/badge/Threading-Intermediate-ee98fb?style=for-the-badge&labelColor=883997) 
 ![Agile - _Very good_](https://img.shields.io/badge/Agile-Very_good-ff94c2?style=for-the-badge&labelColor=ba2d65) 
+![Git - _Very good_](https://img.shields.io/badge/Git-Very_good-3F2F00?style=for-the-badge&labelColor=E94E31&logo=git&logoColor=white) 
 ![Graphic Design - _Very good_](https://img.shields.io/badge/Graphic_Design-Very_good-757de8?style=for-the-badge&labelColor=002984)
 
 </div>
@@ -113,4 +114,37 @@ Freelance, _2018 - Present_
 
 ## Notable Open Source Projects
 
+### [JCT Discord Bot](https://github.com/DenverCoder1/jct-discord-bot)
+
+#### A Discord bot written in python to manage the Discord server of the English Speaking Programat JCT
+
+-   Co-manged **team of eight** student volunteers.
+-   Taught the less experienced team members to properly use **Git** in a team.
+-   Applied many **object oriented** principles.
+-   Applied many python programming **paradigms**.
+-   Designed and created a **PosgreSQL** database for the project.
+-   Designed a very **modular** structure to ensure very **loose coupling** between different features of the project.
+
+### [Rey Trace](https://github.com/abrahammurciano/rey-trace)
+
+#### A ray tracing graphics engine written in Java designed to produce realistic images given the description of a scene
+
+-   Implemented a **multi-threaded** solution for optimal performance.
+-   Practised working in an **Agile** environment.
+-   **Refactored** the codebase many times to maintain it tidy as new features were added.
+
+### [Jack Compiler](https://github.com/abrahammurciano/jack2hack)
+
+#### A compiler for the educational object-based language Jack
+
+-   Wrote a multi-tier compiler from Jack to an intermediate language, then to assembly.
+
+### [S Interpreter](https://github.com/abrahammurciano/s-interpreter)
+
+#### An interpreter written in Python for the educational Turing-machine-like language S
+
 ## Languages
+
+-   🇬🇧 English, _Fluent_
+-   🇪🇸 Spanish, _Fluent_
+-   🇮🇱 Hebrew, _Basic_
