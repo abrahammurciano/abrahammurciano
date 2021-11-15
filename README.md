@@ -114,9 +114,16 @@ Freelance, _2018 - Present_
 
 ## Notable Open Source Projects
 
+### [Paul Bot](https://github.com/abrahammurciano/paul-bot)
+
+#### A feature rich Discord bot written in Python to create polls on Discord servers
+
+-   Coded the project from scratch as a hobby in just under a week.
+-   Designed complex and efficiend SQL queries to quickly load all necessary data in one request.
+
 ### [JCT Discord Bot](https://github.com/DenverCoder1/jct-discord-bot)
 
-#### A Discord bot written in python to manage the Discord server of the English Speaking Programat JCT
+#### A Discord bot written in Python to manage the Discord server of the English Speaking Program at JCT
 
 -   Co-manged **team of eight** student volunteers.
 -   Taught the less experienced team members to properly use **Git** in a team.
