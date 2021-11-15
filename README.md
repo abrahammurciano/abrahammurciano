@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gravatar.com/avatar/af14b56ce08d643882996d1ab2443550?s=200" width="200px">
+<img src="profile-round.png" width="200px">
 
 # Abraham Murciano
 
