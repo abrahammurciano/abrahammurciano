@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+  <defs>
+    <clipPath id="circle-mask">
+      <circle cx="128" cy="128" r="128" />
+    </clipPath>
+  </defs>
+  <image href="https://www.gravatar.com/avatar/af14b56ce08d643882996d1ab2443550?s=256" width="256" height="256" clip-path="url(#circle-mask)" />
+</svg>
