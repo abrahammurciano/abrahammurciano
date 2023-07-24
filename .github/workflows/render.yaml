@@ -1,0 +1,27 @@
+name: Render PDF
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Install Pandoc and Dependencies
+        run: sudo apt-get install -y pandoc wkhtmltopdf
+
+      - name: Render PDF
+        run: |
+          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o README.pdf
+
+      - name: Upload PDF as Workfow Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: README.pdf
+          path: README.pdf
