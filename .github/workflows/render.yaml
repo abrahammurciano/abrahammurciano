@@ -16,9 +16,15 @@ jobs:
       - name: Install Pandoc and Dependencies
         run: sudo apt-get install -y pandoc wkhtmltopdf
 
+      - name: Check everything
+        run: |
+          pwd
+          ls -la
+          ping -c 3 google.com
+
       - name: Render PDF
         run: |
-          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o README.pdf
+          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o README.pdf --verbose --metadata title="Abraham Murciano Resume"
 
       - name: Upload PDF as Workfow Artifact
         uses: actions/upload-artifact@v2
