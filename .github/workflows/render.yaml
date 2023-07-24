@@ -18,7 +18,7 @@ jobs:
 
       - name: Render PDF
         run: |
-          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o README.pdf --verbose --metadata title=""  --metadata mainfont="Roboto Slab" --pdf-engine-opt=--enable-local-file-access --include-in-header=header.html
+          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o README.pdf --verbose --metadata title=""  --pdf-engine-opt=--enable-local-file-access --include-in-header=header.html
 
       - name: Upload PDF as Workfow Artifact
         uses: actions/upload-artifact@v2
