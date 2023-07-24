@@ -18,9 +18,7 @@ jobs:
 
       - name: Check everything
         run: |
-          pwd
-          ls -la
-          ping -c 3 google.com
+          curl https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1e88e5&logoColor=white
 
       - name: Render PDF
         run: |
