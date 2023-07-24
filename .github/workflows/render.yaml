@@ -16,13 +16,9 @@ jobs:
       - name: Install Pandoc and Dependencies
         run: sudo apt-get install -y pandoc wkhtmltopdf
 
-      - name: Check everything
-        run: |
-          curl https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&labelColor=1e88e5&logoColor=white
-
       - name: Render PDF
         run: |
-          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o README.pdf --verbose --metadata title="Abraham Murciano Resume"
+          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o README.pdf --verbose --metadata title="Abraham Murciano Resume" --pdf-engine-opt=--enable-local-file-access
 
       - name: Upload PDF as Workfow Artifact
         uses: actions/upload-artifact@v2
