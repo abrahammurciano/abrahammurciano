@@ -18,7 +18,7 @@ jobs:
 
       - name: Render PDF
         run: |
-          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o README.pdf --verbose --metadata title=""  --pdf-engine-opt=--enable-local-file-access --include-in-header=header.html --variable margin-left=20 --variable margin-right=40px --variable margin-top 10px --variable margin-bottom 5
+          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o README.pdf --verbose --metadata title=""  --pdf-engine-opt=--enable-local-file-access --include-in-header=header.html --variable margin-left=20 --variable margin-right=40px --variable margin-top=10px --variable margin-bottom=5
 
       - name: Upload PDF as Workfow Artifact
         uses: actions/upload-artifact@v2
