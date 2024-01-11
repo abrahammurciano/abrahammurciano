@@ -64,7 +64,7 @@ Versatile and driven software engineer with 8 years of extensive programming exp
 ### Other
 
 ![Object Oriented Programming - _Expert_](https://img.shields.io/badge/Object_Oriented-Expert-98ee99?style=for-the-badge&labelColor=66bb6a) 
-![Linux - _Very good_](https://img.shields.io/badge/Linux-Very_good-F7C700?style=for-the-badge&logo=linux&labelColor=eeeeee&logoColor=black) 
+![Linux - _Expert_](https://img.shields.io/badge/Linux-Expert-F7C700?style=for-the-badge&logo=linux&labelColor=eeeeee&logoColor=black) 
 ![Git - _Expert_](https://img.shields.io/badge/Git-Expert-3F2F00?style=for-the-badge&labelColor=E94E31&logo=git&logoColor=white) 
 ![CICD - _Very good_](https://img.shields.io/badge/CICD-Very_good-3C4548?style=for-the-badge&labelColor=DE8C02&logo=jenkins&logoColor=white) 
 ![REST API - _Very good_](https://img.shields.io/badge/REST_API-Very_good-009485?style=for-the-badge&labelColor=006064&logo=fastapi&logoColor=white) 

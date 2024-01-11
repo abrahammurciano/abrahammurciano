@@ -12,17 +12,19 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Install Pandoc and Dependencies
         run: sudo apt-get install -y pandoc wkhtmltopdf
 
-      - name: Render PDF
+      - name: Render PDFs
         run: |
-          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o AbrahamMurcianoResume.pdf --verbose --metadata title=""  --pdf-engine-opt=--enable-local-file-access --include-in-header=header.html --variable margin-left=90px --variable margin-right=80px --variable margin-top=80px --variable margin-bottom=80px
+          pandoc README.md -s --pdf-engine=wkhtmltopdf -f gfm -o AbrahamMurcianoResume.english.pdf --verbose --metadata title=""  --pdf-engine-opt=--enable-local-file-access --include-in-header=header.html --variable margin-left=90px --variable margin-right=80px --variable margin-top=80px --variable margin-bottom=80px
+          pandoc README.hebrew.md -s --pdf-engine=wkhtmltopdf -f gfm -o AbrahamMurcianoResume.hebrew.pdf --verbose --metadata title=""  --pdf-engine-opt=--enable-local-file-access --include-in-header=header.html --include-in-header=header.hebrew.html --variable margin-left=90px --variable margin-right=80px --variable margin-top=80px --variable margin-bottom=80px
+
 
       - name: Upload PDF as Workfow Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
-          name: AbrahamMurcianoResume.pdf
-          path: AbrahamMurcianoResume.pdf
+          name: AbrahamMurcianoResume
+          path: AbrahamMurcianoResume.*.pdf
